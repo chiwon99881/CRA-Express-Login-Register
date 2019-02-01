@@ -1,0 +1,19 @@
+.item {
+    text-align:center;
+    padding-top:1rem;
+    padding-bottom:1rem;
+    display:table-cell;
+    color:white;
+    text-decoration: none;
+    font-size:1.5rem;
+    border-right: 1px solid #f8c291;
+}
+
+.item:hover {
+    background-color:#eb2f06;
+
+}
+
+.item:active {
+    background-color:#eb2f06;
+}
